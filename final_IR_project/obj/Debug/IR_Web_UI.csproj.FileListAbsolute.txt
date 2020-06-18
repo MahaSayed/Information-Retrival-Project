@@ -1,0 +1,112 @@
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\ApplicationInsights.config
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\csc.exe
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\System.Collections.Immutable.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\System.Reflection.Metadata.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\vbc.exe
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\VBCSCompiler.exe
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\roslyn\VBCSCompiler.exe.config
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\final_IR_project.dll.config
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\final_IR_project.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\final_IR_project.pdb
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.DependencyCollector.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.Web.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.WindowsServer.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.ApplicationInsights.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.DependencyCollector.xml
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.Web.xml
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.AI.WindowsServer.xml
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.ApplicationInsights.xml
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\obj\Debug\IR_Web_UI.csprojResolveAssemblyReference.cache
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\obj\Debug\final_IR_project.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\obj\Debug\final_IR_project.pdb
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Indexer.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\final_IR_project\bin\Indexer.pdb
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\ApplicationInsights.config
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\csc.exe
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\System.Collections.Immutable.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\System.Reflection.Metadata.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\vbc.exe
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\VBCSCompiler.exe
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\roslyn\VBCSCompiler.exe.config
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\final_IR_project.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\final_IR_project.pdb
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Indexer.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.DependencyCollector.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.Web.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.WindowsServer.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.ApplicationInsights.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\mscorlib.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Indexer.pdb
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.DependencyCollector.xml
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.Web.xml
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.AI.WindowsServer.xml
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.ApplicationInsights.xml
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\normidna.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\normnfc.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\normnfd.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\normnfkc.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\bin\normnfkd.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\obj\Debug\IR_Web_UI.csprojResolveAssemblyReference.cache
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\obj\Debug\final_IR_project.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\final_IR_project\obj\Debug\final_IR_project.pdb
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\ApplicationInsights.config
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\csc.exe
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\vbc.exe
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\VBCSCompiler.exe
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\final_IR_project.dll.config
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\final_IR_project.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\final_IR_project.pdb
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Indexer.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.Web.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Indexer.pdb
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.Web.xml
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\obj\Debug\IR_Web_UI.csprojAssemblyReference.cache
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\obj\Debug\IR_Web_UI.csproj.CoreCompileInputs.cache
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\obj\Debug\IR_Web_UI.csproj.CopyComplete
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\obj\Debug\final_IR_project.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\final_IR_project\obj\Debug\final_IR_project.pdb

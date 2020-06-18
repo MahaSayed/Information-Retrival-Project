@@ -1,0 +1,24 @@
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\Indexer\bin\Debug\Indexer.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\Indexer\bin\Debug\Indexer.pdb
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\Indexer\obj\Debug\Indexer.dll
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\Indexer\obj\Debug\Indexer.pdb
+E:\college\(4) forth year\semester 2\IR\IR_Project_mile stone 2\final_IR_project\Indexer\obj\Debug\IR_Indexer.csprojResolveAssemblyReference.cache
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\Indexer.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\Indexer.pdb
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\mscorlib.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\System.Net.Http.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\System.Net.Http.xml
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\normidna.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\normnfc.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\normnfd.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\normnfkc.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\bin\Debug\normnfkd.nlp
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\obj\Debug\Indexer.dll
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\obj\Debug\Indexer.pdb
+E:\cs\year_4\Semster 2\Information Retrieval\IR_Project\final_IR_project\Indexer\obj\Debug\IR_Indexer.csprojResolveAssemblyReference.cache
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\Indexer\obj\Debug\IR_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\Indexer\obj\Debug\Indexer.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\Indexer\obj\Debug\Indexer.pdb
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\Indexer\bin\Debug\Indexer.dll
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\Indexer\bin\Debug\Indexer.pdb
+C:\Users\sayed\Desktop\final_IR_project (1)\final_IR_project\Indexer\obj\Debug\IR_Indexer.csprojAssemblyReference.cache
